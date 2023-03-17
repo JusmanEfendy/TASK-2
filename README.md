@@ -12,4 +12,14 @@ PENJELASAN
 3. memanggil class serta atribut yang telah dibuat tadi ke output.
 
 
+#### Kelas Dan Object Sederhana
 
+![oop2](https://user-images.githubusercontent.com/92988781/225938914-eec9e56d-1f6b-4d97-b881-597d84b09806.png)
+
+Penjelasan kode di atas:
+
+1. Pertama, kita membuat sebuah kelas dengan nama Kendaraan.
+2. Kemudian, kita mendefinisikan metode konstruktor __init__ untuk inisialisasi objek dengan empat parameter: jenis, warna, roda, kecepatan.
+3. Selanjutnya, kita menambahkan metode intro pada kelas Kendaraan.
+4. Setelah itu, kita membuat sebuah objek dengan nama mobil dan motor dari kelas Kendaraan dengan memberikan argumen ke dalam parameter konstruktor.
+5. Terakhir, kita memanggil metode intro pada objek mobil dan motor, mencetak atribut jenis, warna, roda, dan kecepatan pada objek tersebut.
