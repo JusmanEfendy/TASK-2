@@ -5,3 +5,11 @@ Object Oriented Programming (OOP) merupakan suatu konsep pemrograman yang meneka
 #### Perkenalan Kelas Dan Object
 
 ![oop1](https://user-images.githubusercontent.com/92988781/225898731-346c9eda-a865-4367-81a0-7ae683351c7a.png)
+
+PENJELASAN
+1. membuat class "Kendaraan" dan mendivinisikan atributnya
+2. membangun instance/variabel dan mengisi nilai atribut dari class kendaraan
+3. memanggil class serta atribut yang telah dibuat tadi ke output.
+
+
+
